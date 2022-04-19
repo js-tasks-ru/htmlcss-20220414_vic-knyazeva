@@ -1,0 +1,63 @@
+body {
+
+}
+header {
+    background-color: red;
+    margin: 0;
+    padding: 0;
+}
+header h1 {
+    color: white;
+    font-size: 36pt;
+    text-align: center;
+    margin: 0;
+    padding: 1pt 0;
+}
+nav {
+    text-align: center;
+    vertical-align: center;
+    margin: 0;
+    padding: 10pt 0;
+    background-color: orange;
+}
+nav a {
+    color: white;
+    font-size: 18pt;
+    padding: 0 3pt;
+}
+main {
+    background-color: green;
+    margin: 0;
+    padding: 10pt;
+}
+article {
+    background-color: blue;
+    color: white;
+    padding: 10px;
+    margin-bottom: 5pt;
+    font-size: 14pt;
+}
+article h2 {
+}
+article ul,
+article ol{
+    padding: 0 0 0 15pt;
+}
+article ul li,
+article ol li{
+    padding-bottom: 3pt;
+}
+footer {
+    background-color: darkviolet;
+    margin: 0;
+    padding: 0;
+    color: white;
+}
+footer h1 {
+    color: white;
+    font-size: 36pt;
+    text-align: center;
+    margin: 0;
+    padding: 1pt 0;
+    font-weight: lighter;
+}
