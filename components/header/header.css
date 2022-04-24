@@ -3,11 +3,6 @@
     padding: 96px 0 77px;
 }
 
-.header__inner {
-    max-width: 1110px;
-    margin: 0 auto;
-}
-
 .header__title {
     font-family: 'Inter';
     font-style: normal;
